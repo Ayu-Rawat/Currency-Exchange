@@ -12,10 +12,10 @@ Version Control: Git and GitHub
 ## Installation and Setup
 1. Clone the repository:
    ```bash
-      git clone https://github.com/your-username/currency-exchange.git
+      git clone https://github.com/Ayu-Rawat/Currency-Exchange.git
 2. Navigate to the project directory:
    ```bash
-      cd currency-exchange
+      cd Currency-Exchange
 3. Install dependencies:
    ```bash
    npm install
